@@ -91,7 +91,3 @@ A **Hash Table** is used for quick product searches. It maps product IDs to prod
 - Implement additional sorting algorithms (e.g., quicksort).
 - Add a graphical user interface (GUI) for better interaction.
 - Integrate with a database for larger-scale inventory management.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
