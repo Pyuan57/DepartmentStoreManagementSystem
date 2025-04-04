@@ -1,0 +1,115 @@
+# depslib dependency file v1.0
+1733896149 source:d:\tds\department store management system\main.cpp
+	"Store.h"
+
+1733921129 source:d:\tds\department store management system\product.cpp
+	"Product.h"
+
+1733896573 d:\tds\department store management system\product.h
+	<string>
+	<iostream>
+
+1733896129 source:d:\tds\department store management system\store.cpp
+	"Store.h"
+
+1734519211 d:\tds\department store management system\store.h
+	<iostream>
+	<vector>
+	<list>
+	<unordered_map>
+	<fstream>
+	<algorithm>
+	"Product.h"
+
+1735563704 source:d:\department store (edit)\main.cpp
+	"Store.h"
+	<iostream>
+	<limits>
+	<cstdlib>
+
+1735539659 d:\department store (edit)\store.h
+	<iostream>
+	<fstream>
+	<exception>
+	"Product.h"
+
+1735563818 d:\department store (edit)\product.h
+	<string>
+	<iostream>
+
+1733921129 source:d:\department store (edit)\product.cpp
+	"Product.h"
+
+1737099899 source:d:\department store (edit)\store.cpp
+	"Store.h"
+	<iomanip>
+
+1735563704 source:d:\2d_group6\department store (edit)\main.cpp
+	"Store.h"
+	<iostream>
+	<limits>
+	<cstdlib>
+
+1735539659 d:\2d_group6\department store (edit)\store.h
+	<iostream>
+	<fstream>
+	<exception>
+	"Product.h"
+
+1735563818 d:\2d_group6\department store (edit)\product.h
+	<string>
+	<iostream>
+
+1733921129 source:d:\2d_group6\department store (edit)\product.cpp
+	"Product.h"
+
+1737099899 source:d:\2d_group6\department store (edit)\store.cpp
+	"Store.h"
+	<iomanip>
+
+1735563704 source:d:\2d_group6\department store management system (code)\main.cpp
+	"Store.h"
+	<iostream>
+	<limits>
+	<cstdlib>
+
+1735539659 d:\2d_group6\department store management system (code)\store.h
+	<iostream>
+	<fstream>
+	<exception>
+	"Product.h"
+
+1735563818 d:\2d_group6\department store management system (code)\product.h
+	<string>
+	<iostream>
+
+1733921129 source:d:\2d_group6\department store management system (code)\product.cpp
+	"Product.h"
+
+1737129752 source:d:\2d_group6\department store management system (code)\store.cpp
+	"Store.h"
+	<iomanip>
+
+1735563704 source:d:\tds\2d_group6\department store management system (code)\main.cpp
+	"Store.h"
+	<iostream>
+	<limits>
+	<cstdlib>
+
+1735539659 d:\tds\2d_group6\department store management system (code)\store.h
+	<iostream>
+	<fstream>
+	<exception>
+	"Product.h"
+
+1735563818 d:\tds\2d_group6\department store management system (code)\product.h
+	<string>
+	<iostream>
+
+1733921129 source:d:\tds\2d_group6\department store management system (code)\product.cpp
+	"Product.h"
+
+1737129752 source:d:\tds\2d_group6\department store management system (code)\store.cpp
+	"Store.h"
+	<iomanip>
+

@@ -1,0 +1,30 @@
+P001,Electric Kettle,30,32.99
+P002,Vacuum Cleaner,20,599.99
+P003,Toaster,35,88.5
+P004,Coffee Maker,50,249
+P005,Blender,30,129
+P006,Hair Dryer,45,79
+P007,Wall Clock,20,19
+P008,Electric Fan,30,69
+P009,Air Purifier,25,119
+P010,Microwave Oven,15,159
+P011,Washing Machine,8,869
+P012,Refrigerator,10,1799
+P013,Dish Rack,50,15
+P014,Trash Can,60,10
+P015,Iron,30,69
+P016,Cleaning Mop,40,18
+P017,Bucket Set,50,15
+P018,Broom,60,12.5
+P019,Dishwashing Soap (Pack of 3),40,5.5
+P020,Window Cleaning Spray,55,8.5
+P021,Bed Frame,15,209
+P022,Mattress,15,325
+P023,Comforter Set,40,60
+P024,Pillow Set (2 Pack),50,18.5
+P025,Towels (Set of 4),60,22
+P026,Shower Curtain,30,15
+P027,Bathroom Mat Set,25,19.99
+P028,Decorative Throw Blanket,45,25
+P029,Coffee Table,10,120
+P030,Storage Bins (Set of 3),50,20
